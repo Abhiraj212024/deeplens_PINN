@@ -1,1 +1,5 @@
 .venv/
+dataset/
+Concat_Data/
+X_test.npy
+X_train.npy
