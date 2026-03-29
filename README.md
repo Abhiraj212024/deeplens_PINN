@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements machine learning models for classifying gravitational lensing images to identify dark matter substructure types. The work is part of the **ML4Sci Google Summer of Code** initiative and focuses on applying deep learning and physics-informed neural networks (PINNs) to astronomical image analysis under the project **DeepLense**.
+This project implements machine learning models for classifying gravitational lensing images to identify dark matter substructure types. The work is part of the **ML4Sci Google Summer of Code 2026** initiative and focuses on applying deep learning and physics-informed neural networks (PINNs) to astronomical image analysis under the project **DeepLense**.
 
 The dataset contains 150×150 pixel grayscale images of gravitational lenses, classified into three categories:
 - **Class 0**: No substructure
